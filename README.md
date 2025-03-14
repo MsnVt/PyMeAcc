@@ -62,10 +62,10 @@ Note: pyshark requires Wireshark to be installed on your system.
 
 ### Starting the Application
 
-Run the application by executing the script:
+Run the application by executing the script inside its directory:
 
 ```
-python memory_structure_inspector.py
+python PyMeAcc.py
 ```
 
 ---
